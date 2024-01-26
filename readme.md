@@ -2,7 +2,7 @@
 
 ## Generate playlists with Billboard hot 100 songs from given day.
 
-A Python program that scrapes data on the top 100 songs from a specified date using web scraping techniques. The user needs to provide the date for which they want to retrieve the song data. Additionally, the script requires certain credentials to be included in the `env` file, allowing the user to run the script with their Spotify API details.
+A Python program that scrapes data on the top 100 songs from a specified, given by user, date using web scraping techniques, then creates a Spotify playlist. Additionally, the script requires certain credentials to be included in the `env` file, allowing the user to run the script with their Spotify API details.
 
 ## Prerequisites
 
