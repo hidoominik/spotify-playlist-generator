@@ -4,3 +4,4 @@ __pycache__/
 *.db
 output/
 venv/
+.idea
