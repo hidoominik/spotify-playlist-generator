@@ -1,0 +1,6 @@
+.env
+token.txt
+__pycache__/
+*.db
+output/
+venv/
